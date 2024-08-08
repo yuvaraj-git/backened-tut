@@ -1,0 +1,16 @@
+{
+  "name": "chai-and-backened",
+  "version": "1.0.0",
+  "description": "a backened at chai and code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backened",
+    "chai"
+  ],
+  "author": "yuvaraj singh",
+  "license": "ISC"
+}
